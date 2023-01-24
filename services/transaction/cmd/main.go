@@ -14,5 +14,5 @@ func main() {
 	router.HandleFunc("/transactions", handlers.AddTransaction).Methods(http.MethodPost)
 
 	log.Println("Transaction server is running!")
-	http.ListenAndServe(":4000", router)
+	http.ListenAndServe(":6000", router)
 }

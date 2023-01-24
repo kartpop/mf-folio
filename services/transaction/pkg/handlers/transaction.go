@@ -5,8 +5,8 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/kartpop/mf-folio/pkg/mocks"
-	"github.com/kartpop/mf-folio/pkg/models"
+	"github.com/kartpop/mf-folio/services/transaction/pkg/mocks"
+	"github.com/kartpop/mf-folio/services/transaction/pkg/models"
 )
 
 var counter = len(mocks.Transactions) // used for txn id

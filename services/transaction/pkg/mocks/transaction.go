@@ -1,6 +1,6 @@
 package mocks
 
-import "github.com/kartpop/mf-folio/pkg/models"
+import "github.com/kartpop/mf-folio/services/transaction/pkg/models"
 
 var Transactions = []models.Transaction{
 	{

@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/kartpop/mf-folio v0.0.0-20230102163142-6e5c850f4671 h1:e0QCBXNsymoNzhIfJXwDOggFYxhor/JBa0ZhaLbDRok=
+github.com/kartpop/mf-folio v0.0.0-20230102163142-6e5c850f4671/go.mod h1:E/Jb79Vxk7Js11yjF5pAE8b5H5mYpwPa24ehlsq/6YU=
